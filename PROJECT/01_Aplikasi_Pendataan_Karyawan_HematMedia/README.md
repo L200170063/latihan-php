@@ -8,20 +8,20 @@ Kamu adalah seorang developer PHP, buatlah aplikasi pendataan karyawan & divisi 
 - CRUD Karyawan, Divisi.
 
 # Data
-- Admin ( Optional )
+<b>Admin ( Optional )</b>
 Apabila dibuatkan login pihak HematMedia membutuhkan Data Admin sebagai berikut :
-* Username
-* Password
-* Nama Admin
+- Username
+- Password
+- Nama Admin
 
-- Karyawan
+<b>Karyawan</b>
 Saat melakukan pendaatan terhadap karyawannya HematMedia menginginkan aplikasi pendataan dapat melakuakan tambah data, edit data dan hapus data. serta satu karyawan menjabat pada satu divisi. Data karyawan yang dibutuhkan untuk melakukan pendataan antara lain :
 * Identitas Karyawan berupa NIK ( Nomor Induk Karyawan )
 * Nama Lengkap dari Karyawan
 * Alamat Tinggal Sekarang dari Karyawan
 * Divisi Yang dijabat.
 
-- Divsi
+<b>Divsi</b>
 HematMedia perlu membutuhkan pendataan divisi. Perusahaan ini menginginkan data divi dapat melakukan tambah divisi, edit divisi dan hapus divisi, dimana divisi ini nanti akan dijabat oleh karyawan. Data yang diperlukan pada divisi antara lain :
 * id
 * Nama dari Divisi
