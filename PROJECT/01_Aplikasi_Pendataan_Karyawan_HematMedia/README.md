@@ -30,6 +30,6 @@ HematMedia memiliki Tiga Divisi yakni WEBSITE, KEMANAN dan IOT.
 
 # Ketentuan
 Program selesai, lakukan push di repositori ini pada direktori 
-PROJECT/01_Aplikasi_Pendataan_Karyawan_HematMedia/Assignment/
+<b><i>PROJECT/01_Aplikasi_Pendataan_Karyawan_HematMedia/Assignment/</i></b>
 
 # Deadline : Sesuai Ketentuan.
